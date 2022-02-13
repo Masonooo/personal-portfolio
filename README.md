@@ -1,21 +1,14 @@
-<!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <h1 align="center">
-  Barcadia V2 Starter
+  Personal Portfolio
 </h1>
 
-[Version 2 Release Notes](https://www.morganbaker.dev/journal/barcadia-v2-release-notes)
-
-Barcadia is a GatsbyJS starter theme that uses Contentful for content management. It includes the main configuration files found in Gatsby.
+This is a personal portfolio that leverages GatsbyJS and Contentful for content management. 
 
 ## Getting started
 
-1.  **Create a Gatsby site.**
-
-    Use the Gatsby CLI to create a new site, specifying the Barcadia starter.
-
-    ```shell
-    # create a new Gatsby site using the barcadia starter
-    gatsby new my-barcadia-starter https://github.com/bagseye/barcadia
+1. **Clone the Repository**
+    ```
+    git clone https://github.com/Masonooo/personal-portfolio
     ```
 
 2.  **Before running Gatsby Develop**
@@ -36,7 +29,7 @@ Barcadia is a GatsbyJS starter theme that uses Contentful for content management
     Navigate into your new site’s directory and start it up.
 
     ```shell
-    cd my-barcadia-starter/
+    cd personal-portfolio
     gatsby develop
     ```
 
